@@ -2,7 +2,7 @@ import './globals.css';
 import { Providers } from '@/store';
 
 export const metadata = {
-  title: 'Titan SpeedCam HUD',
+  title: ' SpeedCam ',
   description: 'Advanced speed camera navigation system',
 };
 

@@ -43,7 +43,7 @@ export default function StartPage() {
             <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-[2rem] blur opacity-10 group-hover:opacity-30 transition duration-1000" />
             <div className="relative h-full min-h-[350px] bg-zinc-900 border border-white/10 rounded-[1.8rem] overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1617469767053-d3b508a0d84d?q=80&w=2070&auto=format&fit=crop" 
+                src="favicon.ico" 
                 alt="Radar Tech"
                 className="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:grayscale-0 transition-all duration-1000 group-hover:scale-105"
               />
